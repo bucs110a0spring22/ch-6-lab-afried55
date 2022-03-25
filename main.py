@@ -43,7 +43,6 @@ def draw_graph(bound=None):
   
   
 def main():
-  print(seq3np1(3))
   upper_bound = int(input("What is the upper bound?"))
   if upper_bound < 1:
     return
